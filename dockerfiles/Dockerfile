@@ -1,0 +1,3 @@
+FROM nginx
+
+COPY app/web /usr/share/nginx/html
